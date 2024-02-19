@@ -1,0 +1,131 @@
+[
+    {
+        "id":1001,
+        "labs_name":"Metropolis Healthcare Ltd",
+        "address":"SN 15, Everest Heights, Evershine City, Vasai, Thane, 401202",
+        "phone_no":"093212 72715",
+        "rating" : "5",
+        "city" : "Vasai",
+        "image_url":"https://lh3.googleusercontent.com/p/AF1QipOj4J4qTEvMTdJA67yLNk5qqcJo8lLjpdHnEw4-=s1360-w1360-h1020",
+        "services":["Blood Tests","Food Intolerance Test","CBC Test","Lipid Profile Test","Allergy Panel Test","Vitamin D Blood Test","Thyroid Test","HbA1C Test Or Glycated Haemoglobin Test","Thrombophilia Profile Test"],
+        "time":"8:00 am - 10:00 pm"
+        
+    },
+    {
+        "id":1002,
+        "labs_name":"Lotus Pathology Lab",
+        "address":"Shop No 25, Vimal Residency, Yashwant Gaurav Rd, opposite Dew Berry, Nalasopara West, Thane, Nala Sopara, Maharashtra 401203",
+        "phone_no":" 091362 22881",
+        "rating" : "5",
+        "city" : "Nalasopara",
+        "image_url":"https://lh3.googleusercontent.com/p/AF1QipNIpo0lIpiLvdqDU7oiESQlIJbW6qonA4b2B5rs=s1360-w1360-h1020",
+        "services":["HIV (Human Immunodeficiency Virus)","Hormone Testing","Blood Group","Prenatal Check Up Services Available","TB Test","Lipid Profile","Liver Function Test","Kidney Function"],
+        "time":"8:00 am - 10:00 pm"
+      
+        
+
+    },
+    {
+        "id":1003,
+        "labs_name":"Dr. Diagnosis Pathology Lab",
+        "address":"Kailash Darshan 2, Shop No 26, Achole road, Alkapuri Nallasopra E, Mumbai, Maharashtra 401209",
+        "phone_no":" 091451 38469",
+        "rating" : "5",
+        "city" : "Nallasopra",
+        "image_url":"https://lh3.googleusercontent.com/p/AF1QipN5L9MWKigxv6vTQUMWy8MzQNKLk7wasaiXm1jH=s1360-w1360-h1020",
+        "services":["Blood Group","Blood Group","ECG for Heart Attack","HIV (Human Immunodeficiency Virus)","Diagnostic Ultrasound","Diagnostic And Pathology"],
+        "time":"8:00 am - 10:00 pm"
+    
+
+    },
+    {
+        "id":1004,
+        "labs_name":"MEDIC'S LABORATORY",
+        "address":"Shop no. D 005, Saideep Tower, gaon, near Sandeep Heights, near tapsya building, Nilemore, Nalasopara West, Nala Sopara, Maharashtra 401203",
+        "phone_no":"072195 66850",
+        "rating" : "5",
+        "city" : "Nallasopra",
+        "image_url":"https://lh3.googleusercontent.com/p/AF1QipMfEV_v5CIjVy7p4CzOJUkEtKNH73viBVZMwZot=s1360-w1360-h1020",
+        "services":["Kindey Function Test","Lipid Test","Lever Function Test"],
+        "time":"8:00 am - 10:00 pm"
+    
+
+    },
+    {
+        "id":1005,
+        "labs_name":"SAMYAK PATHOLOGY",
+        "address":"Maruti Complex, Aakash Nagar, Nilemore, gav, Nala Sopara, Maharashtra 401203",
+        "phone_no":"085540 18326",
+        "rating" : "4.9",
+        "city" : "Nallasopra",
+        "image_url":"https://lh3.googleusercontent.com/p/AF1QipNiln7Rn0mhcD1pJCa1v7j2KPkH4G34Z841N4M_=s1360-w1360-h1020",
+        "services":["Blood Tests","Food Intolerance Test","CBC Test","Lipid Profile Test","Allergy Panel Test","Vitamin D Blood Test","Thyroid Test","HbA1C Test Or Glycated Haemoglobin Test","Thrombophilia Profile Test"],
+        "time":"8:00 am - 10:00 pm"
+
+    },
+    {
+        "id":1006,
+        "labs_name":"DIVINUS PATHOLOGY LAB",
+        "address":"Shop no 6, AADIRAJ APARTMENT RAJIVGANDHI SCHOOL LANE, Mall, behind Miraj Cinemas Fun Fiesta, Nilemore, Nalasopara West, Nala Sopara, Maharashtra 401203",
+        "phone_no":"091568 55512",
+        "rating" : "3.3",
+        "city" : "Nallasopra",
+        "image_url":"https://lh3.googleusercontent.com/p/AF1QipNl8W7NLnycH8VCNMA8khWA8T3mAe4PXJxFq9QR=s1360-w1360-h1020",
+        "services":["Clinical Pathology","Haematology,Biochemistry","Microbiology, Immunoassay","Histopathology, Covid-19 RT-PCR TEST","X-Ray","All Type of Blood Collection done Here."],
+        "time":"8:00 am - 10:00 pm"
+    
+
+    },
+    {
+        "id":1007,
+        "labs_name":"Metropolis Healthcare Ltd - Pathology Lab, Diagnostic Centre In Nallasopara",
+        "address":"Shop No 7, Classic 99, opposite Auto Rickshaw Stand, Yashvant Gourav, Nalasopara West, Virar, Nala Sopara, Maharashtra 401203",
+        "phone_no":" 093212 72715",
+        "rating" : "5",
+        "city" : "Nallasopra",
+        "image_url":"https://lh3.googleusercontent.com/p/AF1QipP-TNFmSByFFtfraVtFqy35El3_ccfcJ_hGIKVI=s1360-w1360-h1020",
+        "services":["Pathology Testing Services","Blood Tests","Diagnostics"],
+        "time":"8:00 am - 10:00 pm"
+    
+
+    },
+    {
+        "id":1008,
+        "labs_name":"Swastik Pathology Laboratory",
+        "address":" Shop No.06,Nandlal Chawl, NagindasPada,Nr.Silver Ox Hotel, Virar Rd, Nalasopara East, Nala Sopara, Maharashtra 401209",
+        "phone_no":" 098600 58686",
+        "rating" : "5",
+        "city" : "Nallasopra",
+        "image_url":"https://lh3.googleusercontent.com/p/AF1QipMLNQ5XWo2t6dr4croW8V-tOqqsJuebqYkbWZ_B=s1360-w1360-h1020",
+        "services":["Diagnostic And Pathology","Blood Group"],
+        "time":"8:00 am - 10:00 pm"
+
+    },
+    {
+        "id":1009,
+        "labs_name":"SHREE SAI PATHOLOGY CENTER",
+        "address":"Shop no.5,saideep tower,nile-more,vinay complex, near tapashya building, Nalasopara West, Maharashtra 401203",
+        "phone_no":" 084336 50891",
+        "rating" : "2.3",
+        "city" : "Nallasopra",
+        "image_url":"https://lh3.googleusercontent.com/p/AF1QipMDWv4Pss4zeI1eX9aNYjXslMEtbzBaJDkH1qrv=s1360-w1360-h1020",
+        "services":["Diagnostic And Pathology","Blood Group","CBC Test"],
+        "time":"8:00 am - 10:00 pm"
+    
+
+    },
+    {
+        "id":1010,
+        "labs_name":"Health way pathology Lab",
+        "address":"C/ 02 Blossom Apt. Ostwal Nagari Nr.Sant Nirankari Satsang Bhavan, Nalasopara East, Maharashtra 401209",
+        "phone_no":"0250 645226",
+        "rating" : "4.7",
+        "city" : "Nallasopra",
+        "image_url":"https://lh3.googleusercontent.com/p/AF1QipM-sMNW92TWCkSRInoSz9-3WwTPqvyNSlLnA5bp=s1360-w1360-h1020",
+        "services":["Blood Tests","Diagnostics"],
+        "time":"8:00 am - 10:00 pm"
+    
+
+    }
+
+]
