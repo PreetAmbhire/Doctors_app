@@ -7,14 +7,14 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 import '../Utils/app_colors.dart';
 
-class LandingPage extends StatefulWidget {
-  const LandingPage({super.key});
+class HomePage extends StatefulWidget {
+  const HomePage({super.key});
 
   @override
-  State<LandingPage> createState() => _LandingPageState();
+  State<HomePage> createState() => _HomePageState();
 }
 
-class _LandingPageState extends State<LandingPage> {
+class _HomePageState extends State<HomePage> {
   final carousalImages = [
     Image.asset(
       'assets/images/HomeBanner.png',
