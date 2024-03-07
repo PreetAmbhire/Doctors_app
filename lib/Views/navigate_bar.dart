@@ -1,6 +1,6 @@
 import 'package:doctors/Utils/app_colors.dart';
-import 'package:doctors/Views/chat_screen.dart';
-import 'package:doctors/Views/labs.dart';
+import 'package:doctors/Views/Chat/chat_screen.dart';
+import 'package:doctors/Views/Labs/labs.dart';
 import 'package:doctors/Views/landing_page.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';

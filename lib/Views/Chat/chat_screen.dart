@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:doctors/Views/chat_card.dart';
+import 'package:doctors/Views/Chat/chat_card.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

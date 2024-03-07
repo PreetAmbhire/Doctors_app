@@ -1,5 +1,5 @@
-import 'package:doctors/Views/receiver_text.dart';
-import 'package:doctors/Views/sender_text.dart';
+import 'package:doctors/Views/Chat/receiver_text.dart';
+import 'package:doctors/Views/Chat/sender_text.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:flutter_phone_direct_caller/flutter_phone_direct_caller.dart';

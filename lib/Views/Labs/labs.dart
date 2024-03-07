@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:doctors/Utils/app_colors.dart';
-import 'package:doctors/Views/lab_card.dart';
+import 'package:doctors/Views/Labs/lab_card.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
